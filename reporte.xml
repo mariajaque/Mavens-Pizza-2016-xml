@@ -1,0 +1,308 @@
+<Mavens_Pizza name="Reporte">
+  <categoria nombre="Compra proxima semana">
+    <ingrediente nombre="Pepperoni">
+      <prediccion cantidad="112.0" />
+    </ingrediente>
+    <ingrediente nombre="Barbecued Chicken">
+      <prediccion cantidad="85.0" />
+    </ingrediente>
+    <ingrediente nombre=" Beef Chuck Roast">
+      <prediccion cantidad="57.0" />
+    </ingrediente>
+    <ingrediente nombre="Mushrooms">
+      <prediccion cantidad="44.0" />
+    </ingrediente>
+    <ingrediente nombre=" Artichoke">
+      <prediccion cantidad="73.0" />
+    </ingrediente>
+    <ingrediente nombre="Calabrese Salami">
+      <prediccion cantidad="70.0" />
+    </ingrediente>
+    <ingrediente nombre=" Jalapeno Peppers">
+      <prediccion cantidad="199.0" />
+    </ingrediente>
+    <ingrediente nombre=" Capocollo">
+      <prediccion cantidad="119.0" />
+    </ingrediente>
+    <ingrediente nombre=" Sun-dried Tomatoes">
+      <prediccion cantidad="54.0" />
+    </ingrediente>
+    <ingrediente nombre=" Feta Cheese">
+      <prediccion cantidad="153.0" />
+    </ingrediente>
+    <ingrediente nombre=" Thai Sweet Chilli Sauce">
+      <prediccion cantidad="74.0" />
+    </ingrediente>
+    <ingrediente nombre=" Artichokes">
+      <prediccion cantidad="192.0" />
+    </ingrediente>
+    <ingrediente nombre=" Pesto Sauce">
+      <prediccion cantidad="89.0" />
+    </ingrediente>
+    <ingrediente nombre=" Zucchini">
+      <prediccion cantidad="74.0" />
+    </ingrediente>
+    <ingrediente nombre=" Smoked Gouda Cheese">
+      <prediccion cantidad="84.0" />
+    </ingrediente>
+    <ingrediente nombre=" Parmigiano Reggiano Cheese">
+      <prediccion cantidad="84.0" />
+    </ingrediente>
+    <ingrediente nombre=" Pancetta">
+      <prediccion cantidad="31.0" />
+    </ingrediente>
+    <ingrediente nombre=" Thyme">
+      <prediccion cantidad="9.0" />
+    </ingrediente>
+    <ingrediente nombre="&#8216;Nduja Salami">
+      <prediccion cantidad="31.0" />
+    </ingrediente>
+    <ingrediente nombre="Soppressata Salami">
+      <prediccion cantidad="27.0" />
+    </ingrediente>
+    <ingrediente nombre=" Italian Sausage">
+      <prediccion cantidad="34.0" />
+    </ingrediente>
+    <ingrediente nombre=" Pears">
+      <prediccion cantidad="9.0" />
+    </ingrediente>
+    <ingrediente nombre=" Spinach">
+      <prediccion cantidad="171.0" />
+    </ingrediente>
+    <ingrediente nombre=" Arugula">
+      <prediccion cantidad="46.0" />
+    </ingrediente>
+    <ingrediente nombre=" Gouda Cheese">
+      <prediccion cantidad="73.0" />
+    </ingrediente>
+    <ingrediente nombre=" Mushrooms">
+      <prediccion cantidad="270.0" />
+    </ingrediente>
+    <ingrediente nombre=" Alfredo Sauce">
+      <prediccion cantidad="24.0" />
+    </ingrediente>
+    <ingrediente nombre=" Blue Cheese">
+      <prediccion cantidad="84.0" />
+    </ingrediente>
+    <ingrediente nombre=" Cilantro">
+      <prediccion cantidad="100.0" />
+    </ingrediente>
+    <ingrediente nombre="Kalamata Olives">
+      <prediccion cantidad="57.0" />
+    </ingrediente>
+    <ingrediente nombre=" Plum Tomatoes">
+      <prediccion cantidad="24.0" />
+    </ingrediente>
+    <ingrediente nombre=" Chipotle Sauce">
+      <prediccion cantidad="100.0" />
+    </ingrediente>
+    <ingrediente nombre="Capocollo">
+      <prediccion cantidad="112.0" />
+    </ingrediente>
+    <ingrediente nombre=" Barbecue Sauce">
+      <prediccion cantidad="85.0" />
+    </ingrediente>
+    <ingrediente nombre=" Chorizo Sausage">
+      <prediccion cantidad="34.0" />
+    </ingrediente>
+    <ingrediente nombre="Chicken">
+      <prediccion cantidad="300.0" />
+    </ingrediente>
+    <ingrediente nombre="Prosciutto di San Daniele">
+      <prediccion cantidad="46.0" />
+    </ingrediente>
+    <ingrediente nombre=" Bacon">
+      <prediccion cantidad="73.0" />
+    </ingrediente>
+    <ingrediente nombre="Mozzarella Cheese">
+      <prediccion cantidad="145.0" />
+    </ingrediente>
+    <ingrediente nombre="Brie Carre Cheese">
+      <prediccion cantidad="9.0" />
+    </ingrediente>
+    <ingrediente nombre=" Pepperoni">
+      <prediccion cantidad="164.0" />
+    </ingrediente>
+    <ingrediente nombre=" Friggitello Peppers">
+      <prediccion cantidad="31.0" />
+    </ingrediente>
+    <ingrediente nombre=" Red Peppers">
+      <prediccion cantidad="524.0" />
+    </ingrediente>
+    <ingrediente nombre=" Kalamata Olives">
+      <prediccion cantidad="57.0" />
+    </ingrediente>
+    <ingrediente nombre=" Caramelized Onions">
+      <prediccion cantidad="9.0" />
+    </ingrediente>
+    <ingrediente nombre=" Provolone Cheese">
+      <prediccion cantidad="84.0" />
+    </ingrediente>
+    <ingrediente nombre=" Asiago Cheese">
+      <prediccion cantidad="109.0" />
+    </ingrediente>
+    <ingrediente nombre=" Luganega Sausage">
+      <prediccion cantidad="72.0" />
+    </ingrediente>
+    <ingrediente nombre="Eggplant">
+      <prediccion cantidad="19.0" />
+    </ingrediente>
+    <ingrediente nombre="Tomatoes">
+      <prediccion cantidad="105.0" />
+    </ingrediente>
+    <ingrediente nombre="Genoa Salami">
+      <prediccion cantidad="45.0" />
+    </ingrediente>
+    <ingrediente nombre=" Red Onions">
+      <prediccion cantidad="678.0" />
+    </ingrediente>
+    <ingrediente nombre=" Corn">
+      <prediccion cantidad="100.0" />
+    </ingrediente>
+    <ingrediente nombre=" Garlic">
+      <prediccion cantidad="978.0" />
+    </ingrediente>
+    <ingrediente nombre=" Prosciutto">
+      <prediccion cantidad="9.0" />
+    </ingrediente>
+    <ingrediente nombre="Sliced Ham">
+      <prediccion cantidad="67.0" />
+    </ingrediente>
+    <ingrediente nombre="Coarse Sicilian Salami">
+      <prediccion cantidad="72.0" />
+    </ingrediente>
+    <ingrediente nombre=" Green Olives">
+      <prediccion cantidad="184.0" />
+    </ingrediente>
+    <ingrediente nombre=" Peperoncini verdi">
+      <prediccion cantidad="77.0" />
+    </ingrediente>
+    <ingrediente nombre="Bacon">
+      <prediccion cantidad="34.0" />
+    </ingrediente>
+    <ingrediente nombre="Spinach">
+      <prediccion cantidad="142.0" />
+    </ingrediente>
+    <ingrediente nombre=" Onions">
+      <prediccion cantidad="72.0" />
+    </ingrediente>
+    <ingrediente nombre=" Romano Cheese">
+      <prediccion cantidad="84.0" />
+    </ingrediente>
+    <ingrediente nombre=" Goat Cheese">
+      <prediccion cantidad="112.0" />
+    </ingrediente>
+    <ingrediente nombre=" Anchovies">
+      <prediccion cantidad="43.0" />
+    </ingrediente>
+    <ingrediente nombre=" Green Peppers">
+      <prediccion cantidad="181.0" />
+    </ingrediente>
+    <ingrediente nombre="Ricotta Cheese">
+      <prediccion cantidad="84.0" />
+    </ingrediente>
+    <ingrediente nombre=" Gorgonzola Piccante Cheese">
+      <prediccion cantidad="84.0" />
+    </ingrediente>
+    <ingrediente nombre=" Tomatoes">
+      <prediccion cantidad="830.0" />
+    </ingrediente>
+    <ingrediente nombre=" Oregano">
+      <prediccion cantidad="51.0" />
+    </ingrediente>
+    <ingrediente nombre=" Mozzarella Cheese">
+      <prediccion cantidad="255.0" />
+    </ingrediente>
+    <ingrediente nombre=" Fontina Cheese">
+      <prediccion cantidad="107.0" />
+    </ingrediente>
+    <ingrediente nombre=" Pineapple">
+      <prediccion cantidad="169.0" />
+    </ingrediente>
+  </categoria>
+  <informe name="Informe de calidad de los Datos">
+    <df name="orders.csv">
+      <columna name="order_id">
+        <nulls numero="0" />
+        <nans numero="0" />
+        <tipo tipo="int64" />
+      </columna>
+      <columna name="date">
+        <nulls numero="2353" />
+        <nans numero="2353" />
+        <tipo tipo="object" />
+      </columna>
+      <columna name="time">
+        <nulls numero="2038" />
+        <nans numero="2038" />
+        <tipo tipo="object" />
+      </columna>
+    </df>
+    <df name="pizzas.csv">
+      <columna name="pizza_id">
+        <nulls numero="0" />
+        <nans numero="0" />
+        <tipo tipo="object" />
+      </columna>
+      <columna name="pizza_type_id">
+        <nulls numero="0" />
+        <nans numero="0" />
+        <tipo tipo="object" />
+      </columna>
+      <columna name="size">
+        <nulls numero="0" />
+        <nans numero="0" />
+        <tipo tipo="object" />
+      </columna>
+      <columna name="price">
+        <nulls numero="0" />
+        <nans numero="0" />
+        <tipo tipo="float64" />
+      </columna>
+    </df>
+    <df name="order_details.csv">
+      <columna name="order_details_id">
+        <nulls numero="0" />
+        <nans numero="0" />
+        <tipo tipo="int64" />
+      </columna>
+      <columna name="order_id">
+        <nulls numero="0" />
+        <nans numero="0" />
+        <tipo tipo="int64" />
+      </columna>
+      <columna name="pizza_id">
+        <nulls numero="5673" />
+        <nans numero="5673" />
+        <tipo tipo="object" />
+      </columna>
+      <columna name="quantity">
+        <nulls numero="4726" />
+        <nans numero="4726" />
+        <tipo tipo="object" />
+      </columna>
+    </df>
+    <df name="pizza_types.csv">
+      <columna name="pizza_type_id">
+        <nulls numero="0" />
+        <nans numero="0" />
+        <tipo tipo="object" />
+      </columna>
+      <columna name="name">
+        <nulls numero="0" />
+        <nans numero="0" />
+        <tipo tipo="object" />
+      </columna>
+      <columna name="category">
+        <nulls numero="0" />
+        <nans numero="0" />
+        <tipo tipo="object" />
+      </columna>
+      <columna name="ingredients">
+        <nulls numero="0" />
+        <nans numero="0" />
+        <tipo tipo="object" />
+      </columna>
+    </df>
+  </informe>
+</Mavens_Pizza>
