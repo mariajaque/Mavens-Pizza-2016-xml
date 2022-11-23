@@ -12,9 +12,22 @@ the size and pizza type
 import pandas as pd
 import xml.etree.ElementTree as ET
 import warnings
+import signal
+import sys
 
 
 warnings.filterwarnings("ignore")
+
+def handler_signal(signal,frame):
+
+    # Salida controlada del programa en caso de pulsar 
+    # control C
+
+    print("\n\n [!] out .......\ n")
+
+    sys.exit(1)
+
+signal.signal(signal.SIGINT,handler_signal)
 
 
 def extract_csv():
